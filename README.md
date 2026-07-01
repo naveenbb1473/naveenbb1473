@@ -1,4 +1,3 @@
-```markdown
 <!-- ===================================================== -->
 <!--              GitHub Profile README                    -->
 <!--        GitHub Username: naveenbb1473                  -->
@@ -289,4 +288,3 @@ https://drive.google.com/file/d/1z_GJRc4-VDZfGA5e6BoSRpz-ErT9utUd/view?usp=drive
 *"Building software that solves real-world problems, one project at a time."*
 
 </p>
-```
