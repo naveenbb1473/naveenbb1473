@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Naveen B
 
-<!--
-**naveenbb1473/naveenbb1473** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineering+Student;Backend+Developer;Cloud+Computing+Learner;AWS+Certified+Cloud+Practitioner;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Software Engineering Student
+- ☁ AWS Certified Cloud Practitioner
+- 🌱 Currently learning Backend Development with Node.js
+- 💡 Interested in Cloud Computing, APIs and DevOps
+- 🚀 Goal: Become a Full Stack Cloud Engineer
+- 📍 India
+
+💻 Passionate about Backend Development
+
+☁ Learning AWS Cloud
+
+🚀 Interested in Node.js, Express, Python and Java
+
+🌱 Currently learning Full Stack Development
+
+📫 Reach me at:
+naveenbb1473@gmail.com
